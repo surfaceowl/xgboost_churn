@@ -3,6 +3,7 @@ boto3
 matplotlib
 pandas[aws, performance, plot]
 scikit-learn
+shap
 xgboost
 
 
@@ -21,4 +22,3 @@ black
 ipywidgets
 isort
 pre-commit
-
