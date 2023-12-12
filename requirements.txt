@@ -1,0 +1,24 @@
+# core libraries
+boto3
+matplotlib
+pandas[aws, performance, plot]
+scikit-learn
+xgboost
+
+
+# exploration & parameter tuning
+ydata_profiling
+hyperopt
+lazypredict
+umap-learn
+
+# notebook / support
+jupyterlab
+jupyterlab_code_formatter
+jupyterlab-execute-time
+jupyterlab-search-replace
+black
+ipywidgets
+isort
+pre-commit
+
