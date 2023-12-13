@@ -4,7 +4,7 @@ matplotlib
 pandas[aws, performance, plot]
 scikit-learn
 shap
-xgboost
+xgboost>=2.0.2
 
 
 # exploration & parameter tuning
